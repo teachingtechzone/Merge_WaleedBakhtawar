@@ -1,0 +1,116 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+/* div.box {
+    height: 500px;
+    width: 800px;
+    background-color: #d83939;
+    border: 1px solid gray;
+}
+p {
+    height: 70%;
+    width: 70%;
+    background-color: #0088dd;
+    border: 1px solid rgba(255, 192, 203, 0.76);
+}
+     */
+/* div.box {
+    height: 500px;
+    width: 18000px;
+    background-color: #d83939;
+    border: 1px solid gray;
+} */
+/* p {
+    height: 70%;
+    width: 70%;
+    background-color: #0088dd;
+    border: 1px solid rgba(255, 192, 203, 0.76);
+} */
+/* body{
+    overflow: hidden;
+}
+div.box {
+    height: 500px;
+    width: 18000px;
+    background-color: #d83939;
+    border: 1px solid gray;
+} */
+
+
+/* div{
+    background-color: aqua;
+    width: 100px;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid black;
+    box-sizing: border-box;
+} */
+
+div.box{
+    background-color: aqua;
+    /* width: 100px; */
+    /* margin: 40px 50px; */
+    padding: 10px 20px 30px 40px;
+    margin-top: 10px;
+    /* border: 2px solid black; */
+    border-width: 10px;
+    border-style: dashed;
+    border-color: blueviolet;
+    /* box-sizing: border-box; */
+}
+
+/* span.forinline{
+    display: inline-block;
+   background-color: chocolate;
+   text-align: center;
+} */
+div.forinline{
+    /* width: 50%; */
+   background-color: chocolate;
+   text-align: center;
+   width: 500px;
+   margin: auto;
+}
+div.center{
+    background-color: crimson;
+    text-align: center;
+}
+
+span.myspan{
+    background-color: darkblue;
+    color : #fff;
+    width: 200px;
+    display: inline-block;
+}
+
+/* p.p1{
+    visibility: hidden;
+}
+
+p.p2{
+    display: none;
+} */
+/* p.p2{
+    visibility: none    ;
+} */
+
+
+/* waleed */
+#one{
+    margin:20px;
+    border:1px solid blue;
+    height: 100px;
+    width: 100px;
+box-shadow: -15px -15px 10px 1px #777777;
+
+}
+
+#two{    margin:20px;
+    border:1px solid blue;
+    height: 100px;
+    width: 100px;
+box-shadow: 5px 5px #777777;
+
+
+}
